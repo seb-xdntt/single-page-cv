@@ -1,6 +1,6 @@
 # single-page-cv
 Single-Page CV project from roadmap.sh\
-Url: https://roadmap.sh/projects/single-page-cv
+URL: https://roadmap.sh/projects/single-page-cv
 
 Instructions:
 1) Download repository
